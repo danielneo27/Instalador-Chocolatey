@@ -4,6 +4,6 @@
 Instalador do Chocolatey em vários formatos de arquivo!!!
 
 ### Lançamentos:
-Baixe a última versão aqui: ![Instalador-Chocolatey🍫 v1.0.0](https://github.com/danielneo27/Instalador-Chocolatey/releases/tag/v1.0.0-final)
+Baixe a última versão aqui: <a class="github-button" href="https://github.com/danielneo27/Instalador-Chocolatey/releases/tag/v1.0.0-final" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Baixar agora</a>
 
 Testado em Windows 10 e 8.
